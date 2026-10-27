@@ -1,2 +1,2 @@
-# jenkins-java-demo
-My Java CI pipeline using Jenkins and Maven
+# cicd-demo
+My Java CI pipeline 
